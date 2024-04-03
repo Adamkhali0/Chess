@@ -12,8 +12,8 @@ Avant de lancer le jeu, assurez-vous d'avoir Node.js installé sur votre machine
 1. Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
 
 ```bash
-git clone https://github.com/Adamkhali0/ChessGame.git
-```
+https://github.com/Adamkhali0/Chess.git
+ ```
 2. Accédez au répertoire du jeu d'échecs :
  ```bash
 cd ../chess-game
